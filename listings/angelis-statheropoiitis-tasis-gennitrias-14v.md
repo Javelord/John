@@ -36,7 +36,7 @@ statheropoiitis-tasis-gennitrias-14v-gia-statheri-parochi
 <li><strong>Ιδανικό για:</strong> ελαιοπαραγωγούς που τροφοδοτούν ελαιοραβδιστικό από γεννήτρια–δυναμό και θέλουν σταθερή τάση 14 V στο μηχάνημα, π.χ. όταν η γεννήτρια είναι ρυθμισμένη ψηλότερα για άλλο ελαιοραβδιστικό.</li>
 <li><strong>Δεν ενδείκνυται για:</strong> πρίζα 230 V ή βενζινογεννήτρια AC, γεννήτρια με έξοδο πάνω από 30 V DC και ελαιοραβδιστικά που χρειάζονται περισσότερα από 14 V.</li>
 </ul>
-<p>Για να ανεβάσεις την τάση μπαταρίας 12 V σε ηλεκτρικά εργαλεία 18 V υπάρχει άλλο προϊόν, ο <a href="https://www.agrol.gr/angelis-converter-12v-se-18v-gia-ilektrika-ergaleia">converter Angelis 12V σε 18V</a>. Δες και όλα τα <a href="https://www.agrol.gr/elaioravdistiko">ηλεκτρικά ελαιοραβδιστικά</a>.</p>
+<p>Αν δεν έχεις γεννήτρια και δουλεύεις ελαιοραβδιστικό Asteras με μοτέρ 14–18 V από μπαταρία 12 V, χρειάζεσαι άλλο προϊόν, τον <a href="https://www.agrol.gr/angelis-converter-12v-se-18v-gia-ilektrika-ergaleia">converter Angelis 12V σε 18V</a>. Δες και όλα τα <a href="https://www.agrol.gr/elaioravdistiko">ηλεκτρικά ελαιοραβδιστικά</a>.</p>
 <h2>🛠️ Χρήση και φροντίδα</h2>
 <ol>
 <li>Σβήσε τη γεννήτρια πριν από οποιαδήποτε σύνδεση.</li>
