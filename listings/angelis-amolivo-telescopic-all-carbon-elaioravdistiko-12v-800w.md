@@ -92,7 +92,7 @@ elaioravdistiko-amolivo-telescopic-carbon-1169tc-12v-800w
 </ul>
 <h2>❓ Συχνές ερωτήσεις</h2>
 <h3>Τι μπαταρία χρειάζεται το Angelis Amolivo Telescopic All Carbon;</h3>
-<p>Μπαταρία 12 V 80–100 Ah, όπως ορίζει η Angelis, με την οποία δίνει 8 ώρες δουλειάς με 80 Ah και μέση κατανάλωση 6 A, π.χ. η <a href="https://www.agrol.gr/mpataria-elaioravdistikou-angelis-100ah-kleistou-typou">μπαταρία ελαιοραβδιστικού Angelis 100 Ah κλειστού τύπου</a>. Με μπαταρία στο έδαφος δουλεύεις σε ακτίνα 13 m, όσο το καλώδιο. Η Angelis δηλώνει κατάλληλες για το Amolivo και την μπαταρία λιθίου LiFePO4 12,8 V 87 Ah (8,7 kg) και την μπαταρία πλάτης One-For-All 48 Ah (5,35 kg), που έχει έξοδο 12,8 V.</p>
+<p>Μπαταρία 12 V 80–100 Ah, όπως ορίζει η Angelis, π.χ. η <a href="https://www.agrol.gr/mpataria-elaioravdistikou-angelis-100ah-kleistou-typou">μπαταρία ελαιοραβδιστικού Angelis 100 Ah κλειστού τύπου</a>. Με μέση κατανάλωση 6 A, η Angelis δίνει 8 ώρες δουλειάς με μπαταρία 80 Ah. Με μπαταρία στο έδαφος δουλεύεις σε ακτίνα 13 m, όσο το καλώδιο. Η Angelis δηλώνει κατάλληλες για το Amolivo και την μπαταρία λιθίου LiFePO4 12,8 V 87 Ah (8,7 kg) και την μπαταρία πλάτης One-For-All 48 Ah (5,35 kg), που έχει έξοδο 12,8 V.</p>
 <h3>Δουλεύει το Amolivo Telescopic All Carbon με γεννήτρια;</h3>
 <p>Ναι, με γεννήτρια–δυναμό μέσω του <a href="https://www.agrol.gr/statheropoiitis-tasis-gennitrias-14v-gia-statheri-parochi">σταθεροποιητή τάσης γεννήτριας Angelis 14V</a>, όπως ορίζει η Angelis. Η Angelis προειδοποιεί ότι γεννήτριες χωρίς βολτόμετρο και αμπερόμετρο μπορεί να προκαλέσουν ζημιά στο ελαιοραβδιστικό, γιατί δίνουν μεγαλύτερη ή μικρότερη τάση.</p>
 <h3>Κάνει το Amolivo Telescopic All Carbon για βρώσιμες ελιές, όπως Καλαμών και Χαλκιδικής;</h3>
