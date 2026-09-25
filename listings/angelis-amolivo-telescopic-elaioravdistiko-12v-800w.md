@@ -107,7 +107,7 @@ elaioravdistiko-amolivo-telescopic-1169t-12v-800w-alouminiou
 
 ## 4) Metatags → Τίτλος σελίδας
 ```text
-Angelis Amolivo Telescopic Ελαιοραβδιστικό 12V 2,20–3,10m | Agrol.gr
+Amolivo Telescopic Ελαιοραβδιστικό 12V 2,20–3,10m | Agrol.gr
 ```
 
 ## 5) Metatags → Περιγραφή
